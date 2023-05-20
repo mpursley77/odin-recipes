@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first project for The Odin Project. I plan to create a basic recipe webpage.
+Well, I made the page. I guess we wait for github to upload it. Or there's more for me to look at...
